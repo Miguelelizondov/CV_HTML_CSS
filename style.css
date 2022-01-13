@@ -1,0 +1,38 @@
+main {
+  font-family: "Roboto", sans-serif;
+}
+header {
+  margin: auto;
+  text-align: center;
+  width: 100%;
+}
+nav {
+  text-decoration: none;
+}
+nav a {
+  padding: 0px 10px 0px 10px;
+}
+.SectionName {
+  border-style: solid;
+  border-color: rgb(70, 66, 66);
+  padding: 5px;
+}
+.Date {
+  font-weight: 700;
+}
+.Name {
+  font-weight: 700;
+}
+.Description {
+  padding: 5px;
+  margin: 5px;
+}
+footer {
+  margin-top: 50px;
+  text-align: center;
+  margin: auto;
+  border-style: solid;
+  border-color: rgb(70, 66, 66);
+  background-color: rgb(235, 235, 235);
+  padding: 10px;
+}
